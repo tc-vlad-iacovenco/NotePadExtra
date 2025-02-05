@@ -1,0 +1,2 @@
+CREATE DATABASE "test-db";
+GRANT ALL PRIVILEGES ON DATABASE "test-db" TO notepad;
